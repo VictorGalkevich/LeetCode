@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public class Problem1496 {
     public static void main(String[] args) {
-        System.out.println(isPathCrossing(new String("NESW")));
+        System.out.println(isPathCrossing(new String("NESWW")));
     }
 
     public static boolean isPathCrossing(String path) {
