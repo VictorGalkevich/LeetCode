@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class Problem39 {
     static List<List<Integer>> ans = new ArrayList<>();
     static ArrayList<Integer> ls = new ArrayList<>();
 
